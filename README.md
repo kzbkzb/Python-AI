@@ -110,3 +110,6 @@
 - [知识点讲解七：Python中的异常处理机制](https://blog.csdn.net/qq_38251616/article/details/82351482)
 - [知识点讲解八：Python中的尾递归](https://blog.csdn.net/qq_38251616/article/details/81978887)
 - [知识点讲解九：判断字符串是否为纯数字](https://blog.csdn.net/qq_38251616/article/details/87900947)
+
+![image](https://user-images.githubusercontent.com/33121095/137661674-e38b9509-e4eb-4e1b-81d2-3b18a4cd0a19.png)
+
