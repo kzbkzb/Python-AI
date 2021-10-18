@@ -13,6 +13,8 @@
   <a href="https://www.heywhale.com/home/user/profile/60c1cdd86ea0f900179616c8"><img src="https://img.shields.io/badge/heywhale-和鲸-blue.svg" alt="公众号"></a>
 </p>
 
+![K同学啊 -  从Python开始学AI](https://user-images.githubusercontent.com/33121095/137693727-1960ad61-011b-4743-84bd-920a753bf1dc.png)
+
 
 # 深度学习 📚
 
