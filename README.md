@@ -1,6 +1,8 @@
+全网爆火的🔥🔥🔥 **《深度学习100例》** 现在对外开放了，提供可运行的**代码**和**数据**。正在更新中~
 
-✨ 温馨小提示：`ctrl`+`F` 可以帮助你快速寻找想要的内容
+原创文章每周最少两篇，**后续最新文章** 会在[【公众号】](#公众号)首发，比博客早一到两篇。大家可以加我[【微信】](#公众号)进交流群，技术交流或提意见都可以，欢迎Star！
 
+[【文章目录】](#文章目录)~
 
 ![image](https://user-images.githubusercontent.com/33121095/137660473-a61b92fc-8a44-425f-a86c-9d35976974fc.png)
 
@@ -13,11 +15,14 @@
   <a href="https://www.heywhale.com/home/user/profile/60c1cdd86ea0f900179616c8"><img src="https://img.shields.io/badge/heywhale-和鲸-blue.svg" alt="公众号"></a>
 </p>
 
+
 ![K同学啊 -  从Python开始学AI](https://user-images.githubusercontent.com/33121095/137693727-1960ad61-011b-4743-84bd-920a753bf1dc.png)
 
 [**🎁 粉丝福利**](https://mp.weixin.qq.com/s/NES9RhtAhbX_jsmGua28dA)
 
 [**脑图在线编辑地址**](https://www.processon.com/view/link/616d2ee45653bb06f69f4543)
+
+<a name="文章目录"></a>
 
 # 目录（善用Ctrl+F）
 ## 深度学习 📚
