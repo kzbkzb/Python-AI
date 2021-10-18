@@ -19,10 +19,10 @@
 
 [**脑图在线编辑地址**](https://www.processon.com/view/link/616d2ee45653bb06f69f4543)
 
+# 目录（善用Ctrl+F）
+## 深度学习 📚
 
-# 深度学习 📚
-
-## 目标识别 ✨
+### 目标识别 ✨
 1. [深度学习100例-卷积神经网络（CNN）实现mnist手写数字识别 | 第1天](https://mp.weixin.qq.com/s/TR13H-gTqlWKTzIhPATsaw) 
 2. [深度学习100例-卷积神经网络（CNN）彩色图片分类 | 第2天](https://mp.weixin.qq.com/s/myRuSfF4LgUBmp4FusngtA)
 3. [深度学习100例-卷积神经网络（CNN）服装图像分类 | 第3天](https://mp.weixin.qq.com/s/MO9D79m91HT1QlRVjhFvBg)
@@ -45,13 +45,13 @@
 20. [深度学习100例 | 第25天-卷积神经网络（CNN）：中文手写数字识别](https://mp.weixin.qq.com/s/I-uO5RbF50eOTMiUBkcAmA)
 21. [深度学习100例 | 第26天-卷积神经网络（CNN）：乳腺癌识别](https://mp.weixin.qq.com/s/ZnV9G9C2rduFs_8uBjKukw)
 22. [深度学习100例 | 第27天-卷积神经网络（CNN）：艺术作品识别](https://mtyjkh.blog.csdn.net/article/details/120815018)
-## 循环神经网络篇（RNN） 🚀 
+### 循环神经网络篇（RNN） 🚀 
 
 1.  [深度学习100例-循环神经网络（RNN）实现股票预测 | 第9天](https://mp.weixin.qq.com/s/E1FTjfO-W4dndwctJF9ajQ)
 2.  [深度学习100例-循环神经网络（LSTM）实现股票预测 | 第10天](https://mp.weixin.qq.com/s/kL6Z4OQFgdJPIGVjDIoz7g)
 3.  [深度学习100例 | 第32天（GRU模型）：利用算法生成小说（斗罗大陆版）](https://mtyjkh.blog.csdn.net/article/details/120536511)
 
-##  生成对抗网络篇（GAN） 🎎
+###  生成对抗网络篇（GAN） 🎎
 
 1. [深度学习100例-生成对抗网络（GAN）手写数字生成 | 第18天](https://mtyjkh.blog.csdn.net/article/details/118995896)
 2. [深度学习100例-生成对抗网络（DCGAN）手写数字生成 | 第19天](https://mtyjkh.blog.csdn.net/article/details/119133575)
@@ -59,12 +59,12 @@
 ## 图卷积神经网络（GCN）🔥
 1. [深度学习100例 | 第52天-图卷积神经网络（GCN）：实现论文分类](https://mp.weixin.qq.com/s/H2igaSljlsI0dSw7KVXgcA)
 
-## 自然语言处理 📰
+### 自然语言处理 📰
 
 1. [如何用Python做情感分析？](https://mp.weixin.qq.com/s/2O4_ChFTwKioA2O8lirkhQ)
 2. [在线课程评论情感分析-本科毕设实战案例](https://mtyjkh.blog.csdn.net/article/details/120731184)
 
-# 机器学习 🧰
+## 机器学习 🧰
  - [机器学习第1天：数据预处理](https://blog.csdn.net/qq_38251616/article/details/82764848)
  - [机器学习第2天：简单线性回归模型](https://blog.csdn.net/qq_38251616/article/details/82769827)
  - [机器学习第3天：多元线性回归](https://blog.csdn.net/qq_38251616/article/details/82775192)
@@ -82,12 +82,12 @@
 4. [乳腺癌肿瘤预测](https://mtyjkh.blog.csdn.net/article/details/107958323)
 5. [预测汽车的燃油效率](https://mtyjkh.blog.csdn.net/article/details/107783901)
 
-# 数据分析 📊
+## 数据分析 📊
 
 1. [抓取豆瓣上的《长津湖》的热评，我发现了这些](https://mp.weixin.qq.com/s/oqjSNUmmCIRVnKeewQE2lA)
 2. [数据分析告诉你，历年的诺贝尔奖都被哪些人拿走了？](https://mp.weixin.qq.com/s/yKGmYyEd0UbA9093ZVNhZw)
 
-## Matplotlib实例教程 📈
+### Matplotlib实例教程 📈
 
 1. [Matplotlib实例教程（一）柱状图](https://mtyjkh.blog.csdn.net/article/details/120497987)
 2. [Matplotlib实例教程（二）饼状图](https://mtyjkh.blog.csdn.net/article/details/120498029)
@@ -107,7 +107,7 @@
 16. [Matplotlib实例教程（十六）3D直方图](https://mtyjkh.blog.csdn.net/article/details/120734323)
 17. [Matplotlib实例教程（十七）3D山体图](https://mtyjkh.blog.csdn.net/article/details/120734349)
 
-# 爬虫 🕷
+## 爬虫 🕷
 - [实战项目一：爬取西刺代理（获取代理IP）](https://blog.csdn.net/qq_38251616/article/details/86750473)
 - [实战项目二：实现CSDN自动点赞](https://blog.csdn.net/qq_38251616/article/details/83717669)
 - [实战项目三：爬取QQ群中的人员信息](https://blog.csdn.net/qq_38251616/article/details/82963395)
