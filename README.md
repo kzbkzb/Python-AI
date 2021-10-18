@@ -10,8 +10,6 @@
   <a href="https://juejin.cn/user/2023562123160158"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="公众号"></a>
   <a href="https://www.zhihu.com/people/ni-huan-hao-ma-70-3/posts"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="投稿"></a>
   <a href="https://mtyjkh.blog.csdn.net/"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="投稿"></a>
-  <a href="https://my.oschina.net/javaFamily"><img src="https://img.shields.io/badge/oschina-开源中国-green" alt="投稿"></a>
-  <a href="https://www.cnblogs.com/aobing/"><img src="https://img.shields.io/badge/cnblogs-博客园-important.svg" alt="投稿"></a>
 </p>
 
 
