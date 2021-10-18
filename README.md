@@ -1,8 +1,18 @@
-![](https://img-blog.csdnimg.cn/046bc231fbe5494584b0822dac2893f9.png#pic_center)
 
 ✨ 温馨小提示：`ctrl`+`F` 可以帮助你快速寻找想要的内容
 
+
 ![image](https://user-images.githubusercontent.com/33121095/137660473-a61b92fc-8a44-425f-a86c-9d35976974fc.png)
+
+<p align="center">
+  <a href="#微信"><img src="https://img.shields.io/badge/weChat-微信群-blue.svg" alt="微信群"></a>
+  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-K同学啊-lightgrey.svg" alt="公众号"></a>
+  <a href="https://juejin.cn/user/2023562123160158"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="公众号"></a>
+  <a href="https://www.zhihu.com/people/ni-huan-hao-ma-70-3/posts"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="投稿"></a>
+  <a href="https://mtyjkh.blog.csdn.net/"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="投稿"></a>
+  <a href="https://my.oschina.net/javaFamily"><img src="https://img.shields.io/badge/oschina-开源中国-green" alt="投稿"></a>
+  <a href="https://www.cnblogs.com/aobing/"><img src="https://img.shields.io/badge/cnblogs-博客园-important.svg" alt="投稿"></a>
+</p>
 
 
 # 深度学习 📚
@@ -111,5 +121,8 @@
 - [知识点讲解八：Python中的尾递归](https://blog.csdn.net/qq_38251616/article/details/81978887)
 - [知识点讲解九：判断字符串是否为纯数字](https://blog.csdn.net/qq_38251616/article/details/87900947)
 
-![image](https://user-images.githubusercontent.com/33121095/137661674-e38b9509-e4eb-4e1b-81d2-3b18a4cd0a19.png)
+<a name="微信"></a>  <a name="公众号"></a>
+
+![image](https://user-images.githubusercontent.com/33121095/137661796-f44595fd-50e0-490e-b4ad-591db384ac4f.png)
+
 
