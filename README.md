@@ -3,7 +3,7 @@
 原创文章每周最少两篇，**后续最新文章** 会在[【公众号】](#公众号)首发，比博客早一到两篇。大家可以加我[【微信】](#公众号)进交流群，技术交流或提意见都可以，欢迎Star！
 
 [【思维导图】](#思维导图)~
-
+![image](https://user-images.githubusercontent.com/33121095/137660473-a61b92fc-8a44-425f-a86c-9d35976974fc.png)
 
 <p align="center">
   <a href="#微信"><img src="https://img.shields.io/badge/weChat-微信群-green.svg" alt="微信群"></a>
@@ -15,8 +15,6 @@
   <a href="https://www.heywhale.com/home/user/profile/60c1cdd86ea0f900179616c8"><img src="https://img.shields.io/badge/heywhale-和鲸-yellow.svg" alt="公众号"></a>
 </p>
 
-
-![K同学啊 -  从Python开始学AI](https://user-images.githubusercontent.com/33121095/137693727-1960ad61-011b-4743-84bd-920a753bf1dc.png)
 
 <a name="文章目录"></a>
 
@@ -133,7 +131,7 @@
 - [知识点讲解九：判断字符串是否为纯数字](https://blog.csdn.net/qq_38251616/article/details/87900947)
 
 <a name="思维导图"></a>
-![image](https://user-images.githubusercontent.com/33121095/137660473-a61b92fc-8a44-425f-a86c-9d35976974fc.png)
+![K同学啊 -  从Python开始学AI](https://user-images.githubusercontent.com/33121095/137693727-1960ad61-011b-4743-84bd-920a753bf1dc.png)
 
 <a name="微信"></a>  <a name="公众号"></a>
 
