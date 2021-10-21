@@ -2,7 +2,7 @@
 
 原创文章每周最少两篇，**后续最新文章** 会在[【公众号】](#公众号)首发，比博客早一到两篇。大家可以加我[【微信】](#公众号)进交流群，技术交流或提意见都可以，欢迎Star！
 
-[【思维导图】](#思维导图)~
+[【从Python到AI】](#思维导图)~
 
 ![image](https://user-images.githubusercontent.com/33121095/137660473-a61b92fc-8a44-425f-a86c-9d35976974fc.png)
 
@@ -131,6 +131,7 @@
 - [知识点讲解九：判断字符串是否为纯数字](https://blog.csdn.net/qq_38251616/article/details/87900947)
 
 <a name="思维导图"></a>
+## 从Python到AI
 
 ![K同学啊 -  从Python开始学AI](https://user-images.githubusercontent.com/33121095/137693727-1960ad61-011b-4743-84bd-920a753bf1dc.png)
 [**脑图在线编辑地址**](https://www.processon.com/view/link/616d2ee45653bb06f69f4543)
