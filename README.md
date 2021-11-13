@@ -19,6 +19,8 @@
 
 <a name="文章目录"></a>
 
+[**👉建议区**](https://github.com/kzbkzb/Python-AI/issues/new)
+
 [**🎁 粉丝福利**](https://mp.weixin.qq.com/s/NES9RhtAhbX_jsmGua28dA)
 
 
