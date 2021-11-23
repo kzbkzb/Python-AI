@@ -28,7 +28,8 @@
 - star破50、100、200，交流群里发`50`元现金红包
 - star破400、800、1200，交流群里发`100`元现金红包
 
-<a href="#微信"><img src="https://img.shields.io/badge/weChat-微信群-green.svg" alt="微信群"></a>
+![image](https://user-images.githubusercontent.com/33121095/142977871-9c4b33bf-a349-4a2c-9e49-ca36c893a308.png)
+
 
 # 目录（善用Ctrl+F）
 ## 深度学习 📚
