@@ -28,9 +28,7 @@
 - star破50、100、200，交流群里发`50`元现金红包
 - star破400、800、1200，交流群里发`100`元现金红包
 
-![image](https://user-images.githubusercontent.com/33121095/144586822-366ae78e-21f1-4c47-8ccd-559b359b6f7f.png)
-
-
+![image](https://user-images.githubusercontent.com/33121095/145662629-1c49ac43-4b14-4c5c-ade2-1b7f75f760b7.png)
 
 # 目录（善用Ctrl+F）
 ## 深度学习 📚
