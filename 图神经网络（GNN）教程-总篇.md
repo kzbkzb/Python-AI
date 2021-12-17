@@ -2,9 +2,11 @@
 **本文已加入 [**🚀 Python AI 计划**](https://github.com/kzbkzb/Python-AI)，从一个Python小白到一个AI大神，你所需要的所有知识都在 [这里](https://github.com/kzbkzb/Python-AI) 了。**
 ***
 
+**本文定位是**：图神经网络（GNN）教程，后续实战案例文章将加入 [《深度学习100》](https://github.com/kzbkzb/Python-AI#%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-) 
+
 tf_geometric 是一个高效且友好的图神经网络库，同时支持TensorFlow 1.x 和 2.x。
 
-受到  **rusty1s/pytorch_geometric** 项目的启发，我们为TensorFlow构建了一个图神经网络（GNN）库。
+受到  usty1s/pytorch_geometric 项目的启发，我们为TensorFlow构建了一个图神经网络（GNN）库。
 [tf_geometric](https://github.com/CrawlScript/tf_geometric) 同时提供面向对象接口（OOP API）和函数式接口（Functional API），你可以用它们来构建有趣的模型。
 
 
