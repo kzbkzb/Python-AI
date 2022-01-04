@@ -24,11 +24,11 @@
 [**🎁 粉丝福利**](https://mp.weixin.qq.com/s/NES9RhtAhbX_jsmGua28dA)
 
 
-再发个福利吧~ 
-- star破50、100、200，交流群里发`50`元现金红包
-- star破400、800、1200，交流群里发`100`元现金红包
+加我微信拉你进交流群
 
-![image](https://user-images.githubusercontent.com/33121095/145662629-1c49ac43-4b14-4c5c-ade2-1b7f75f760b7.png)
+![image](https://user-images.githubusercontent.com/33121095/148020377-d6fd0a5c-84f7-4a29-8659-151d7535df73.png)
+
+
 
 # 目录（善用Ctrl+F）
 ## 深度学习 📚
