@@ -181,7 +181,7 @@
 ### 深度学习基础
 
 #### 快速入门
-* [深度学习思维导图](https://github.com/dformoso/deeplearning-mindmap)	&& [深度学习算法地图](http://www.tensorinfinity.com/paper_158.html)
+* [深度学习思维导图](https://github.com/dformoso/deeplearning-mindmap)
 * [《斯坦福大学深度学习基础教程》 Andrew Ng（吴恩达）](https://github.com/Mikoto10032/DeepLearning/blob/master/books/斯坦福大学-深度学习基础教程.pdf)  
 * [深度学习 吴恩达 个人笔记](http://www.ai-start.com/dl2017/)  && [视频](http://mooc.study.163.com/smartSpec/detail/1001319001.htm)
 * [MIT深度学习基础-2019视频课程](https://deeplearning.mit.edu/)
