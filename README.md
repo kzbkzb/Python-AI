@@ -148,7 +148,7 @@
 
 ### 数学基础
 
-![](notes/Images/MathematicalBasis.png)
+![image](https://user-images.githubusercontent.com/33121095/148482049-dd7c30e4-8a7e-44b7-ae86-838d8934a9f9.png)
 
 * [矩阵微积分](https://zh.wikipedia.org/wiki/%E7%9F%A9%E9%98%B5%E5%BE%AE%E7%A7%AF%E5%88%86)
 * [机器学习的数学基础](https://github.com/fengdu78/Data-Science-Notes/tree/master/0.math/0.basic)
