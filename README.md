@@ -28,7 +28,13 @@
 
 ![image](https://user-images.githubusercontent.com/33121095/148020377-d6fd0a5c-84f7-4a29-8659-151d7535df73.png)
 
-
+- 🎈 机器学习-周志华 [百度云下载链接](https://pan.baidu.com/s/1gvRjYGYpPx4NE83s5z1T9w) 提取码：hnzu
+- 🎆 统计学习-李航 [百度云下载链接](https://pan.baidu.com/s/16lCYrprEc4JwPCUfORxQPw) 提取码：lc5e
+- 🧨 神经网络与深度学习-邱锡鹏 [百度云下载链接](https://pan.baidu.com/s/1qqTaTufryySQmjYKn3qp5g) 提取码：m3ls
+- ✨ 深度强化学习 Hung-yi Lee [百度云下载链接](https://pan.baidu.com/s/1nmgqw9k6ZrVE5rsz9nBIEg) 提取码：9b0a
+- 🎉 机器学习实战 中文双页版 [百度云下载链接](https://pan.baidu.com/s/1ZtHK4MLTsC_dZL98bX1vpw) 提取码：jy7r
+- 🎊 斯坦福大学-深度学习基础教程 [百度云下载链接](https://pan.baidu.com/s/1oDPzzlP9Oqj9J2BKfnPuhw) 提取码：hjz7
+- 🎃 Tensorflow 实战Google深度学习框架[百度云下载链接](https://pan.baidu.com/s/1pHZy06HlNYQ5lYqKqbYSqw) 提取码：f6wf
 
 # 目录（善用Ctrl+F）
 ## 深度学习 📚
