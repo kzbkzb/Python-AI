@@ -19,14 +19,9 @@
 
 <a name="文章目录"></a>
 
-[**👉 建议区**](https://github.com/kzbkzb/Python-AI/issues/new)
 
 [**🎁 粉丝福利**](https://mp.weixin.qq.com/s/NES9RhtAhbX_jsmGua28dA)
 
-
-加我微信拉你进交流群
-
-![image](https://user-images.githubusercontent.com/33121095/148020377-d6fd0a5c-84f7-4a29-8659-151d7535df73.png)
 
 - 🎈 机器学习-周志华 [百度云下载链接](https://pan.baidu.com/s/1gvRjYGYpPx4NE83s5z1T9w) 提取码：hnzu
 - 🎆 统计学习-李航 [百度云下载链接](https://pan.baidu.com/s/16lCYrprEc4JwPCUfORxQPw) 提取码：lc5e
