@@ -32,8 +32,12 @@
 - 🎊 斯坦福大学-深度学习基础教程 [百度云下载链接](https://pan.baidu.com/s/1oDPzzlP9Oqj9J2BKfnPuhw) 提取码：hjz7
 - 🎃 Tensorflow 实战Google深度学习框架[百度云下载链接](https://pan.baidu.com/s/1pHZy06HlNYQ5lYqKqbYSqw) 提取码：f6wf
 
-**笔记系列**
+**面试笔记系列**
 - 🎄 谷歌和阿里大佬的Leetcode刷题笔记 [百度云下载链接](https://pan.baidu.com/s/1Ng0CIXc_eiXoBhaiHwZ8xQ) 提取码：9go2 
+- 🎋 Leetcode 1300道算法题解 [百度云下载链接](链接：https://pan.baidu.com/s/1KnbyyyQULHXVAbpoHFg-Zw) 提取码：eg9z
+- 🎍 labuladong 的算法小抄 [百度云下载链接](https://pan.baidu.com/s/1LQjOuxkYWVYS53YWvHhHag) 提取码：v4qf
+- 🎎 程序员面试宝典 [百度云下载链接](https://pan.baidu.com/s/1TKabRrhX78MwJ8kwWhkKqA) 提取码：gm7o
+- 🎏 大厂面试真题 [百度云下载链接](https://pan.baidu.com/s/1ZXB83ME5fsuG48JVRPIG_Q) 提取码：u9y4
 
 # 目录（善用Ctrl+F）
 ## 深度学习 📚
