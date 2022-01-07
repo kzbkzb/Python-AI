@@ -22,6 +22,7 @@
 
 [**🎁 粉丝福利**](https://mp.weixin.qq.com/s/NES9RhtAhbX_jsmGua28dA)
 
+**书籍系列**
 
 - 🎈 机器学习-周志华 [百度云下载链接](https://pan.baidu.com/s/1gvRjYGYpPx4NE83s5z1T9w) 提取码：hnzu
 - 🎆 统计学习-李航 [百度云下载链接](https://pan.baidu.com/s/16lCYrprEc4JwPCUfORxQPw) 提取码：lc5e
@@ -30,6 +31,9 @@
 - 🎉 机器学习实战 中文双页版 [百度云下载链接](https://pan.baidu.com/s/1ZtHK4MLTsC_dZL98bX1vpw) 提取码：jy7r
 - 🎊 斯坦福大学-深度学习基础教程 [百度云下载链接](https://pan.baidu.com/s/1oDPzzlP9Oqj9J2BKfnPuhw) 提取码：hjz7
 - 🎃 Tensorflow 实战Google深度学习框架[百度云下载链接](https://pan.baidu.com/s/1pHZy06HlNYQ5lYqKqbYSqw) 提取码：f6wf
+
+**笔记系列**
+- 🎄 谷歌和阿里大佬的Leetcode刷题笔记 [百度云下载链接](https://pan.baidu.com/s/1Ng0CIXc_eiXoBhaiHwZ8xQ) 提取码：9go2 
 
 # 目录（善用Ctrl+F）
 ## 深度学习 📚
