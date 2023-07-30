@@ -7,7 +7,7 @@
 ![image](https://user-images.githubusercontent.com/33121095/137660473-a61b92fc-8a44-425f-a86c-9d35976974fc.png)
 
 <p align="center">
-  <a href="#知识星球"><img src="https://img.shields.io/badge/weChat-知识星球-red.svg" alt="知识星球"></a>
+  <a href="#知识星球"><img src="https://img.shields.io/badge/抱团-知识星球-red.svg" alt="知识星球"></a>
   <a href="#微信"><img src="https://img.shields.io/badge/weChat-微信群-green.svg" alt="微信群"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-K同学啊-lightgrey.svg" alt="公众号"></a>
   <a href="https://www.zhihu.com/people/ni-huan-hao-ma-70-3/posts"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="投稿"></a>
