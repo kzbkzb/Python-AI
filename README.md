@@ -20,14 +20,14 @@
 <a name="文章目录"></a>
 
 <p align="center">
-  <strong><a href="https://t.zsxq.com/10zFc9Xbd">知识星球</a></strong>
+  <strong><a href="https://t.zsxq.com/10zFc9Xbd">🔥</a></strong>
+  <strong><a href="https://t.zsxq.com/10zFc9Xbd">👉 我们都在知识星球👈</a></strong>
+  <strong><a href="https://t.zsxq.com/10zFc9Xbd">👉 我们都在知识星球👈</a></strong>
+  <strong><a href="https://t.zsxq.com/10zFc9Xbd">👉 我们都在知识星球👈</a></strong>
+  <strong><a href="https://t.zsxq.com/10zFc9Xbd">🔥</a></strong>
 </p>
 
-<center><p>🔥[**👉 我们都在知识星球👈**]()[**👉 我们都在知识星球👈**](https://t.zsxq.com/10zFc9Xbd)[**👉 我们都在知识星球👈**](https://t.zsxq.com/10zFc9Xbd)🔥</center>
 
-<div align="center">
-**[你的链接文字](链接地址)**
-</div>
 
 
 **书籍系列**
