@@ -19,7 +19,11 @@
 
 <a name="文章目录"></a>
 
-<center>🔥[**👉 我们都在知识星球👈**](https://t.zsxq.com/10zFc9Xbd)[**👉 我们都在知识星球👈**](https://t.zsxq.com/10zFc9Xbd)[**👉 我们都在知识星球👈**](https://t.zsxq.com/10zFc9Xbd)🔥</center>
+<center><p>🔥[**👉 我们都在知识星球👈**]()[**👉 我们都在知识星球👈**](https://t.zsxq.com/10zFc9Xbd)[**👉 我们都在知识星球👈**](https://t.zsxq.com/10zFc9Xbd)🔥</center>
+
+<center>
+    <a href="https://t.zsxq.com/10zFc9Xbd">👉 我们都在知识星球👈</a><a href="https://t.zsxq.com/10zFc9Xbd">👉 我们都在知识星球👈</a><a href="https://t.zsxq.com/10zFc9Xbd">👉 我们都在知识星球👈</a>
+</center>
 
 **书籍系列**
 
