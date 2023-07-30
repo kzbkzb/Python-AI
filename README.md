@@ -19,7 +19,7 @@
 
 <a name="文章目录"></a>
 
-🔥[**👉 我们都在知识星球👈**](https://t.zsxq.com/10zFc9Xbd)[**👉 我们都在知识星球👈**](https://t.zsxq.com/10zFc9Xbd)[**👉 我们都在知识星球👈**](https://t.zsxq.com/10zFc9Xbd)🔥
+<center>🔥[**👉 我们都在知识星球👈**](https://t.zsxq.com/10zFc9Xbd)[**👉 我们都在知识星球👈**](https://t.zsxq.com/10zFc9Xbd)[**👉 我们都在知识星球👈**](https://t.zsxq.com/10zFc9Xbd)🔥</center>
 
 **书籍系列**
 
