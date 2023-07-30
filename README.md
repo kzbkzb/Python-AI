@@ -13,14 +13,13 @@
   <a href="https://www.zhihu.com/people/ni-huan-hao-ma-70-3/posts"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="投稿"></a>
   <a href="https://mtyjkh.blog.csdn.net/"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="投稿"></a>
   <a href="https://juejin.cn/user/2023562123160158"><img src="https://img.shields.io/badge/juejin-掘金-purple.svg" alt="公众号"></a>
-  <a href="https://www.jianshu.com/u/712f72a31392"><img src="https://img.shields.io/badge/jianshu-简书-blue.svg" alt="公众号"></a>
   <a href="https://www.heywhale.com/home/user/profile/60c1cdd86ea0f900179616c8"><img src="https://img.shields.io/badge/heywhale-和鲸-yellow.svg" alt="公众号"></a>
 </p>
 
 
 <a name="文章目录"></a>
 
-[**👉 我们都在知识星球👈**](https://t.zsxq.com/10zFc9Xbd)
+🔥[**👉 我们都在知识星球👈**](https://t.zsxq.com/10zFc9Xbd)[**👉 我们都在知识星球👈**](https://t.zsxq.com/10zFc9Xbd)[**👉 我们都在知识星球👈**](https://t.zsxq.com/10zFc9Xbd)🔥
 
 **书籍系列**
 
