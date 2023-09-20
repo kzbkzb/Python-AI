@@ -3,6 +3,8 @@
 原创文章每周最少两篇，**后续最新文章** 会在[【公众号】](#公众号)首发，比博客早一到两篇。大家可以加我[【微信】](#公众号)进交流群，技术交流或提意见都可以，欢迎Star！
 
 [【从Python到AI】](#思维导图)~
+</br>
+</br>
 
 ![image](https://github.com/kzbkzb/Python-AI/assets/33121095/64591430-bc59-4f56-baa7-71c763a87296)
 
@@ -17,16 +19,9 @@
   <a href="https://www.heywhale.com/home/user/profile/60c1cdd86ea0f900179616c8"><img src="https://img.shields.io/badge/heywhale-和鲸-yellow.svg" alt="公众号"></a>
 </p>
 
-
+</br>
+</br>
 <a name="文章目录"></a>
-
-<p align="center">
-  <strong><a href="https://t.zsxq.com/10zFc9Xbd">🔥</a></strong>
-  <strong><a href="https://t.zsxq.com/10zFc9Xbd">👉 我们都在知识星球👈</a></strong>
-  <strong><a href="https://t.zsxq.com/10zFc9Xbd">👉 我们都在知识星球👈</a></strong>
-  <strong><a href="https://t.zsxq.com/10zFc9Xbd">👉 我们都在知识星球👈</a></strong>
-  <strong><a href="https://t.zsxq.com/10zFc9Xbd">🔥</a></strong>
-</p>
 
 
 
