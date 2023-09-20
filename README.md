@@ -4,7 +4,8 @@
 
 [【从Python到AI】](#思维导图)~
 
-![image](https://user-images.githubusercontent.com/33121095/137660473-a61b92fc-8a44-425f-a86c-9d35976974fc.png)
+![image](https://github.com/kzbkzb/Python-AI/assets/33121095/64591430-bc59-4f56-baa7-71c763a87296)
+
 
 <p align="center">
   <a href="https://t.zsxq.com/10zFc9Xbd"><img src="https://img.shields.io/badge/抱团-知识星球-red.svg" alt="知识星球"></a>
