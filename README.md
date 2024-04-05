@@ -9,6 +9,8 @@
 <a href="https://mp.weixin.qq.com/s/0dvHCaOoFnW8SCp3JpzKxg"><img src="https://github.com/kzbkzb/Python-AI/assets/33121095/0b8f30ba-5358-46c4-8d6e-58513d12fc39" alt="365深度学习训练营"></a>
 
 
+[【从Python到AI】](#思维导图)~
+
 <p align="center">
   <a href="https://t.zsxq.com/10zFc9Xbd"><img src="https://img.shields.io/badge/抱团-知识星球-red.svg" alt="知识星球"></a>
   <a href="#微信"><img src="https://img.shields.io/badge/weChat-微信群-green.svg" alt="微信群"></a>
