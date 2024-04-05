@@ -6,9 +6,7 @@
 </br>
 </br>
 
-![image](https://github.com/kzbkzb/Python-AI/assets/33121095/0b8f30ba-5358-46c4-8d6e-58513d12fc39)
-
-<a href="https://t.zsxq.com/10zFc9Xbd"><img src="https://github.com/kzbkzb/Python-AI/assets/33121095/0b8f30ba-5358-46c4-8d6e-58513d12fc39" alt="365深度学习训练营"></a>
+<a href="[https://t.zsxq.com/10zFc9Xbd](https://mp.weixin.qq.com/s/0dvHCaOoFnW8SCp3JpzKxg)"><img src="https://github.com/kzbkzb/Python-AI/assets/33121095/0b8f30ba-5358-46c4-8d6e-58513d12fc39" alt="365深度学习训练营"></a>
 
 
 <p align="center">
