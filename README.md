@@ -6,7 +6,7 @@
 </br>
 </br>
 
-![image](![image](https://github.com/kzbkzb/Python-AI/assets/33121095/0b8f30ba-5358-46c4-8d6e-58513d12fc39))
+![image](https://github.com/kzbkzb/Python-AI/assets/33121095/0b8f30ba-5358-46c4-8d6e-58513d12fc39)
 
 
 <p align="center">
