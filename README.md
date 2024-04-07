@@ -8,7 +8,7 @@
 
 <a href="https://mp.weixin.qq.com/s/0dvHCaOoFnW8SCp3JpzKxg"><img src="https://github.com/kzbkzb/Python-AI/assets/33121095/0b8f30ba-5358-46c4-8d6e-58513d12fc39" alt="365深度学习训练营"></a>
 
-
+[【👉 训练营介绍】](https://mp.weixin.qq.com/s/0dvHCaOoFnW8SCp3JpzKxg)~
 [【👉 报名微信】](https://github.com/kzbkzb/Python-AI/assets/33121095/cf3154a7-329d-4aa9-935c-131eb7abafd7)~
 
 
